@@ -1,0 +1,24 @@
+# ملفات بايثون المترجمة
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# مجلد البيئة الافتراضية
+venv/
+env/
+.venv/
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات إعدادات IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ملفات أخرى ممكن تكون مؤقتة
+*.log
+*.sqlite3
